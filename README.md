@@ -1,15 +1,15 @@
-# CSC505-Fall-2018-NCSU
+Practice Problems
 1. Coin Change DP
 
 Given a set of arbitrary denominations C =(c1,...,cd), describe an algorithm that uses dynamic programming to compute the minimum number of coins required for making change. You may assume that C contains 1 cent, that all denomination are different, and that the denominations occur in in increasing order.
 
 2. Matrix Chain Multiplication
 
-Reinforce your understanding of dynamic programming and the matrix-chain multiplication problem. (10 points) Please follow the description in our textbook (Chapter 15) and implement a dynamic programming version of the algorithm for solving the matrix-chain multiplication problem. Your program should take an array of integers representing the dimensions of the matrices in the matrix-chain as input, and it should produce the optimal number of scalar multiplications needed to compute the matrix-chain product as output.  In addition, your algorithm should also output an optimal parenthesization of the matrix chain.
+Reinforce your understanding of dynamic programming and the matrix-chain multiplication problem. Implement a dynamic programming version of the algorithm for solving the matrix-chain multiplication problem. Your program should take an array of integers representing the dimensions of the matrices in the matrix-chain as input, and it should produce the optimal number of scalar multiplications needed to compute the matrix-chain product as output.  In addition, your algorithm should also output an optimal parenthesization of the matrix chain.
 
 3. Modified Djikstra
 
-Reinforce your understanding of Dijkstra’s shortest path algorithm, learn about multiple solutions, and practice algorithm design and Implementation (12 points). In the usual formulation of Dijkstra’s algorithm, the number of edges in the shortest (= lightest) path is not a consideration. Here, we assume that there might be multiple shortest paths. Implement an algorithm that takes as input an undirected graph G = (V, E), a nonnegative cost function w on E, a source vertex s and a destination vertex t, and produces a path with the fewest edges amongst all shortest paths from s to t. If there are multiple such shortest paths with the fewest edges, your algorithm should output the unique path with the lexicographically smallest sequence of vertices amongst all such paths. Please describe (6 points) and implement your algorithm (6 points). Your implementation should follow the description of Dijkstra's algorithm given in class.
+Reinforce your understanding of Dijkstra’s shortest path algorithm, learn about multiple solutions, and practice algorithm design and Implementation. In the usual formulation of Dijkstra’s algorithm, the number of edges in the shortest (= lightest) path is not a consideration. Here, we assume that there might be multiple shortest paths. Implement an algorithm that takes as input an undirected graph G = (V, E), a nonnegative cost function w on E, a source vertex s and a destination vertex t, and produces a path with the fewest edges amongst all shortest paths from s to t. If there are multiple such shortest paths with the fewest edges, your algorithm should output the unique path with the lexicographically smallest sequence of vertices amongst all such paths. Please describe (6 points) and implement your algorithm. Your implementation should follow the description of Dijkstra's algorithm given in class.
 
 I/O Specification:
 
