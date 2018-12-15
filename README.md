@@ -26,10 +26,17 @@ Here is a database of facts and rules.
 
 Creatures come in two types: humans and birds.
 One type of human is a man.
+
 One type of bird is a turkey.
+
 Louis is a man.
+
 Albert is a man.
+
 Frank is a turkey.
-a. Louis is a man, Louis is a human, and Louis is a creature.
-b. Albert is a man, Albert is a human, and Albert is a creature.
-c. Frank is a turkey, Frank is a bird, and Frank is a creature.
+
+Louis is a man, Louis is a human, and Louis is a creature.
+
+Albert is a man, Albert is a human, and Albert is a creature.
+
+Frank is a turkey, Frank is a bird, and Frank is a creature.
