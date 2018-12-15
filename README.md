@@ -25,6 +25,7 @@ Your program should print two lines. In the first line, output the cost of the o
 Here is a database of facts and rules. 
 
 Creatures come in two types: humans and birds.
+
 One type of human is a man.
 
 One type of bird is a turkey.
